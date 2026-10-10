@@ -1,0 +1,6 @@
+streamlit==1.40.1
+pandas==2.2.3
+folium==0.15.1
+streamlit-folium==0.20.0
+python-dotenv==1.0.1
+anthropic==0.39.0
